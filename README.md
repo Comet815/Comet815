@@ -19,6 +19,10 @@
 
 `Python` `JavaScript` `Cryptography` `零依赖`
 
+**[▶ 在线演示](https://comet815.github.io/auditx-verifier/)** —— 点开就能验，绿的是原始账本，红的是被改了一个词的。
+
+![审查庭](docs/auditx.png)
+
 ### [Hummingbird](https://github.com/Comet815/hummingbird) · 蜂鸟
 
 **贵的地方只花在判断上，便宜的地方用来干活。**
