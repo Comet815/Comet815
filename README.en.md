@@ -72,8 +72,9 @@ Measured: local writer 26.8 tok/s, gate tests 11/11 passed on the first run, clo
 ## What I'm doing
 
 - Local model deployment (on Mac mini and Windows / Linux Mini PCs — it only counts if it actually runs)
+- Local AI deployment for Windows industrial-control and embedded environments
 - Software acceptance and code review for organizations, with verifiable reports
-- Turning "review" from a Word doc into a ledger anyone can re-compute
+- Digitizing review workflows: turning paper / Word-based reviews into independently re-computable evidence chains
 
 ## How to work together
 
