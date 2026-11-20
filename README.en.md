@@ -41,6 +41,11 @@ A client double-clicks one HTML file and the browser re-computes everything loca
 
 ![The Courtroom](docs/auditx.png)
 
+Companion tool **[AuditX OCR Bridge](https://github.com/Comet815/auditx-ocr-bridge)**:
+wires the output of the open-source reviewer [open-code-review](https://github.com/alibaba/open-code-review)
+into the same ledger. It fixes three practical problems — line numbers drifting after chunking,
+cross-chunk references misreported as "not imported", and the same defect counted twice.
+
 ### [Hummingbird](https://github.com/Comet815/hummingbird)
 
 **Spend on judgment where it's expensive; spend on execution where it's cheap.**

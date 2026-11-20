@@ -41,6 +41,10 @@
 
 ![审查庭](docs/auditx.png)
 
+配套小工具 **[AuditX OCR Bridge](https://github.com/Comet815/auditx-ocr-bridge)**：
+把开源代码审查工具 [open-code-review](https://github.com/alibaba/open-code-review) 的输出，
+接进同一条账本。解决三个实际问题——分段后行号错位、跨块引用被当成"未导入"的假报、同一处重复计数。
+
 ### [Hummingbird](https://github.com/Comet815/hummingbird) · 蜂鸟
 
 **贵的地方只花在判断上，便宜的地方用来干活。**
